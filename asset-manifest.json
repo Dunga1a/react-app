@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dunga1a/react-app/static/css/main.3dad44f0.css",
+    "main.js": "/Dunga1a/react-app/static/js/main.1c355143.js",
+    "static/js/787.fe00223f.chunk.js": "/Dunga1a/react-app/static/js/787.fe00223f.chunk.js",
+    "index.html": "/Dunga1a/react-app/index.html",
+    "main.3dad44f0.css.map": "/Dunga1a/react-app/static/css/main.3dad44f0.css.map",
+    "main.1c355143.js.map": "/Dunga1a/react-app/static/js/main.1c355143.js.map",
+    "787.fe00223f.chunk.js.map": "/Dunga1a/react-app/static/js/787.fe00223f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dad44f0.css",
+    "static/js/main.1c355143.js"
+  ]
+}
